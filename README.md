@@ -31,16 +31,16 @@ You can install Jupyter with:
 
 ```bash
 pip install notebook
-
+```
 ---
 ### Clone the repository:
-
+```bash
 git clone https://github.com/chandrasai-Durgapu/llm-basic-predict-next-word.git
 cd llm-basic-predict-next-word
-
+```
 ---
 ### Launch the notebook:
-
+```bash
 jupyter notebook llm_basic.ipynb
-
+```
 ---
